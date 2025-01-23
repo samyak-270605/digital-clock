@@ -1,4 +1,4 @@
-# Digital Clock
+# Digital Clock(Interstellar Theme)
 
 This is a React-based digital clock project that displays the current time in a user-friendly and visually appealing format. The clock updates in real time and includes an AM/PM indicator.
 
